@@ -1,1 +1,4 @@
 .venv
+wandb
+pdb_files
+protein_chains.pkl
